@@ -1,0 +1,18 @@
+.button {
+  font-size: 12px;
+  color: #ffffff;
+
+  background: #4b51ef;
+  border-radius: 5px;
+
+  padding: 6px 12px;
+
+  &--small {
+    padding: 5px 15px;
+  }
+
+  &--transparent {
+    background: transparent;
+    color: #4B51EF;
+  }
+}
